@@ -1,6 +1,9 @@
-# Clarify Desktop App Releases
+<p align="center">
+    <img width="350px" height="auto" src="assets/logo.png">
+</p>
 
-Welcome to the **Clarify** official releases repository! This repository hosts the latest versions of the **Clarify** desktop app, designed to enhance your productivity with AI-powered tools.  
+
+Welcome to the official **Clarify** desktop app releases repository! This repository hosts the latest versions of the **Clarify** desktop app, designed to enhance your productivity with AI-powered tools.  
 
 Visit our website at [https://getclarify.ai/](https://getclarify.ai/) to learn more about Clarify and its features.
 
