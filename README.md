@@ -24,5 +24,3 @@ If you encounter any issues or have questions:
 - Contact us at **support@getclarify.ai** for assistance.
 
 Thank you for choosing Clarify! 🚀
-
-Edits validation 1.
